@@ -13,7 +13,7 @@ I am a novice researcher in Macroeconomics and Finance. I earned my **Bachelor o
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ### Contacts
-If you are interested in my profile or have any questions about my code, you can contact me or see my [CV](https://www.dropbox.com/scl/fi/m740e8yqsws8g43gd5hwd/cv_sekerinaiana.pdf?rlkey=1m9181cej75fy8ur44owhu8hq&st=ou731juh&dl=0).
+If you are interested in my profile or have any questions about my code, you can contact me or see my [CV](https://www.dropbox.com/scl/fi/eug1keendc0gaas3z4g7a/cv_sekerina.pdf?rlkey=oemj2rxzmu49znqbx8x3fijfe&st=wd9nejc2&dl=0).
 
 [![Telegram](https://img.shields.io/badge/Telegram-%230076A8.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/yana_sekerina) <a href="mailto:m4yana95@gmail.com" target="_blank">
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
