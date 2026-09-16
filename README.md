@@ -1,5 +1,5 @@
 ###  🎀 Hi there! I'm Yana. 
-I am a novice researcher in Macroeconomics and Finance. I earned my **BA in Economics with Honours** from Lomonosov Moscow State University in Russia and **MA in Economics and Finance** through a joint program at LUISS Guido Carli University and Einaudi Institute for Economics and Finance in Rome, Italy. Now I am a first-year **MRes/PhD in Economics** student at London School of Economics and Political Science.
+I am a novice researcher in Macroeconomics and Finance. I earned my **BA in Economics** from Lomonosov Moscow State University in Russia and **MA in Economics and Finance** through a joint program at LUISS Guido Carli University and Einaudi Institute for Economics and Finance in Rome, Italy. Now I am a first-year **MRes/PhD in Economics** student at London School of Economics and Political Science.
 
 ### Research Interests
 - International macroeconomics and finance
